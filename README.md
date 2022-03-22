@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Boni, a full stack + software engineer in 上海 (Shanghai).
+I'm Boni, a software engineer based in 上海 (Shanghai).
 
-💼 I'm currently a freelance web developer building web apps for small and medium companies
-
-🔭 I’m currently working on the future of language learning (app)
+💼 I'm currently a freelance web developer building web apps for small and medium companies (I'm Currently Available for new projects)
 
 🌱 I’m currently Elixir and Phoenix
 
 👯 I’m looking to collaborate on something awesome
 
-💬 Ask me about Javascript,Python,React,Vuejs 
+💬 Ask me about Javascript,React,Vuejs 
 
 ⚡ Fun fact: 我会中文
 
