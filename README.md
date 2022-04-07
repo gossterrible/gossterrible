@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm Boni, a software engineer based in 上海 (Shanghai).
 
-💼 I'm currently a freelance web developer building web apps for small and medium companies (I'm Currently Available for new projects)
+💼 I'm currently a freelance web developer building web apps for small and medium companies
 
-🌱 I’m currently Elixir and Phoenix
+🌱 I’m currently learning Elixir and Phoenix
 
 👯 I’m looking to collaborate on something awesome
 
