@@ -27,4 +27,3 @@ I'm Boni, a software engineer based in 上海 (Shanghai).
 
 ⚡ Fun fact: 我会中文
 
-![](https://github-readme-stats.vercel.app/api?username=gossterrible&show_icons=true&include_all_commits=true&hide_border=true&theme=radical)
