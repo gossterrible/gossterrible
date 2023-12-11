@@ -23,7 +23,7 @@ I'm Boni, a software engineer based in 上海 (Shanghai).
 
 👯 I’m looking to collaborate on something awesome
 
-💬 Ask me about Javascript,React,Vuejs and python
+💬 Ask me about Javascript,React,Vuejs and Python
 
 ⚡ Fun fact: 我会中文
 
