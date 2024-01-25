@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Boni, a software engineer based in 上海 (Shanghai).
+I'm Boni, a software engineer based in Montreal (Canada).
 
 💼 I'm currently a freelance web developer building web apps for small and medium size companies
 
