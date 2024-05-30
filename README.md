@@ -27,3 +27,7 @@ I'm Boni, a software engineer based in Montreal (Canada).
 
 ⚡ Fun fact: 我会中文
 
+Music to feed the soul:
+[OMA & Shing02 - Luv(sic) Hexalogy | Live HipHop](https://www.youtube.com/watch?v=FGOEMvymSIE
+)
+
