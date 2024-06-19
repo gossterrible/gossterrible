@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Boni, a software engineer based in Montreal.
 
-💼 I'm currently a freelance web developer building web apps for small and medium size companies and a HCI researcher at [Human-Centered Design (HCD) Lab](https://jhcheng.me/lab/)
+💼 I'm currently a freelance web developer building web apps for small and medium size companies and a HCI researcher at [Human-Centered Design (HCD) Lab](https://jhcheng.me/lab/) focused on usability and OSS
 
 🌱 I’m currently learning Elixir and Phoenix
 
