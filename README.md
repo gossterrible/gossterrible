@@ -26,6 +26,8 @@ I'm Boni, a software engineer based in Montreal.
 ⚡ Fun fact: 我会中文
 
 Music to feed the soul:
+
 [OMA & Shing02 - Luv(sic) Hexalogy | Live HipHop](https://www.youtube.com/watch?v=FGOEMvymSIE
 )
 
+[MF DOOM X TATSURO YAMASHITA](https://www.youtube.com/watch?v=E8pHAQc4rxA)
