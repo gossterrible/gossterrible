@@ -31,3 +31,7 @@ Music to feed the soul:
 )
 
 [MF DOOM X TATSURO YAMASHITA](https://www.youtube.com/watch?v=E8pHAQc4rxA)
+
+[Future Islands - perform at Amoeba Music Hollywood - 2010](https://www.youtube.com/watch?v=kSDVjrljdUg)
+
+[Parcel - Live Vol. 1](https://www.youtube.com/watch?v=e4TFD2PfVPw&pp=ygULcGFyY2VsIHZvbDE%3D)
