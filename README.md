@@ -30,6 +30,8 @@ Music to feed the soul:
 [OMA & Shing02 - Luv(sic) Hexalogy | Live HipHop](https://www.youtube.com/watch?v=FGOEMvymSIE
 )
 
+[OMA - MF DOOM Instrumentals (Full Live Gig, 2023)](https://www.youtube.com/watch?v=sossVHoi2R4)
+
 [MF DOOM X TATSURO YAMASHITA](https://www.youtube.com/watch?v=E8pHAQc4rxA)
 
 [Future Islands - perform at Amoeba Music Hollywood - 2010](https://www.youtube.com/watch?v=PtblU3NsSEI)
