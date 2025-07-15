@@ -37,3 +37,5 @@ Music to feed the soul:
 [Future Islands - perform at Amoeba Music Hollywood - 2010](https://www.youtube.com/watch?v=PtblU3NsSEI)
 
 [Parcel - Live Vol. 1](https://www.youtube.com/watch?v=e4TFD2PfVPw&pp=ygULcGFyY2VsIHZvbDE%3D)
+
+[Siangyoo Hip-Hop, R&B, Edits 006 Live @What’s Up? Ilo-Ilo.](https://www.youtube.com/watch?v=m_IvG_6o7dY)
