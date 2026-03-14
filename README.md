@@ -1,4 +1,4 @@
-Software engineer in Montreal. Building web applications for SMBs while pursuing my PhD in HCI at [HCD Lab](https://jhcheng.me/lab/), focusing on usability in open source software. Happy to discuss React, Vue, Python, LLMs, developer tooling, or how we can make software work better for humans. 我会中文.
+Software engineer in Montreal. Building web applications for SMBs while pursuing my PhD in HCI at [HCD Lab](https://hcdlab.polymtl.ca/), focusing on usability in open source software. Happy to discuss React, Vue, Python, LLMs, developer tooling, or how we can make software work better for humans. 我会中文.
 
 **Currently spinning:**
 [OMA & Shing02 - Luv(sic) Hexalogy | Live HipHop](https://www.youtube.com/watch?v=FGOEMvymSIE) /
